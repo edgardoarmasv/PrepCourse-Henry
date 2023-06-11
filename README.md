@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del modulo 2 del prepcourse de Henry
+Prueba de como clonar un repositorio desde github al escritorio
