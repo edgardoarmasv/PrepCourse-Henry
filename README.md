@@ -1,1 +1,1 @@
-Prueba de como clonar un repositorio desde github al escritorio
+Prueba de como clonar un repositorio desde github al escritorio.
